@@ -1,20 +1,21 @@
-<h1 align="center">Olá 👋, sou ErickBrasil</h1>
-<h3 align="center">Um apaixonado desenvolvedor Backend do Brasil</h3>
+# 💫 About Me:
+🌱 I’m currently learning: python<br>
 
-- 🌱 Atualmente estou aprendendo **Python**
 
-- ⚡ Curiosidade **A primeira regra da programação: se funcionar, não toque nela.🤓**
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nstyx.erick) 
 
-<h3 align="left">Conecte-se comigo:</h3>
-<p align="left">
-<a href="https://twitter.com/erick16249605" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master /src/images/icons/Social/twitter.svg" alt="erick16249605" height="30" width="40" /></a>
-<a href="https://instagram.com/nstyx.erick " target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg " alt="nstyx.erick" height="30" width="40" /></a>
-</p>
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=ErickBrasil&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=ErickBrasil&theme=shadow_green&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ErickBrasil&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-<h3 align="left">Idiomas e ferramentas:</h3>
-<p align="left" "> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer">  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+### 😂 Random Dev Meme
+<img src='https://memer-new.vercel.app/' style="height: 400px;"/>
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=erickbrasil&show_icons=true&locale=en&layout=compact" alt="erickbrasil" /> </p>
+---
+[![](https://visitcount.itsvg.in/api?id=ErickBrasil&icon=8&color=3)](https://visitcount.itsvg.in)
 
-<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=erickbrasil&show_icons=true&locale=en" alt="erickbrasil" /> </p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
